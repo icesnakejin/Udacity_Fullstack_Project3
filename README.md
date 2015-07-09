@@ -1,7 +1,7 @@
 # udacity_fullstack_project3
 
 ##Files
-* application.py -- python script with flask main application
+* project3.py -- python script with flask main application
 * catalog.db -- sqlite database for item catalog
 * database_setup.py -- pathon script for sqlalchemy database schema
 * addData.py -- python script to polulate database with sample data
